@@ -1,0 +1,16 @@
+node_modules
+static
+git
+
+.vscode
+.idea
+.DS_Store
+.coverage
+.cache
+.eslintcache
+*/.DS_Store
+
+env.js
+server/views
+logs
+build
